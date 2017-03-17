@@ -1,0 +1,58 @@
+body {
+	 background-color:lightblue;
+}
+a {
+text-decoration:none;
+}
+.hd {
+	/*used in home page*/
+	color:blue;
+	margin-left:4.5em;
+	font-size:7em;
+}
+.hd1 {
+	/*used in homepage*/
+	color:red;
+	font-size:2em;
+	font-weight:bold;
+}
+.hd2 {
+	 /*used in homepage*/
+	 color:red;
+	 font-size:2em;
+	 margin-left:3em;
+}
+.hd3  {
+	
+	/*used in homepage*/
+	color:red;
+	font-size:2em;
+	margin-left:1em;
+}
+.hd4  {
+	
+	/*used in c-signup.html*/
+	color:GREEN;
+	font-size:2em;
+	margin-left:11em;
+}
+.g {
+	/* used in c_signup.html*/
+	color:green;
+	font-size:1.2em;
+	margin-left:1em;
+	font-weight:bold;
+}
+.s {
+	/* used in c_signup.html*/
+	margin-left:1.5em;
+	margin-right:5000em;
+	font-weight:bold;
+}
+.s1 {
+	/*USED IN c_signup.html*/
+	color:red;
+	font-size:1em;
+	margin-left:2em;
+}
+}
